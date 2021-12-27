@@ -5,7 +5,7 @@ using System.Text.Json;
 using MongoDB.Bson;
 using MongoDB.Driver;
 
-namespace CSharpDatabase.Connector
+namespace MongoCSharp
 {
     public class MongoConnector
     {
